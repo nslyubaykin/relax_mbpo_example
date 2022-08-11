@@ -11,3 +11,7 @@ The results are summarized in the following plot (MBPO is run only for 175k envs
 
 The only difference in hyper-parameters settings between MBPO-SAC and vanilla SAC is the presence of model based acceleration. 
 We can see a substantial advantage of MBPO in terms of training speed by looking at the averaged curves.
+
+__Resulting Policy__
+
+https://user-images.githubusercontent.com/67604207/184105444-bcdad145-1dde-4c9f-a8fd-f384a14e8f90.mp4
