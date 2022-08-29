@@ -1,7 +1,7 @@
 # MBPO with [ReLAx](https://github.com/nslyubaykin/relax)
 Example MBPO-SAC implementation with [ReLAx](https://github.com/nslyubaykin/relax)
 
-This repository contains an implementation of MBPO algorithm for SAC actor with [ReLAx](https://github.com/nslyubaykin/relax) package.
+This repository contains an [implementation](https://github.com/nslyubaykin/relax_mbpo_example/blob/master/mbpo_tutorial.ipynb) of MBPO algorithm for SAC actor with ReLAx package.
 
 The performance versus vanilla SAC is measured by averaging learning curves (for separate evaluation environment) over 4 experiments with random environment seeds.
 
